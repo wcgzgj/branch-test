@@ -8,4 +8,7 @@ package top.faroz;
  * @Version 1.0
  **/
 public class DevClass {
+    public static void main(String[] args) {
+        System.out.println("应该在 dev 分支上进行开发");
+    }
 }
